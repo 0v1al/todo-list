@@ -21,9 +21,9 @@ const Todo = ({
           <i className="fas fa-check"></i>
         </span>
         <span className="todo-text-completed">{text}</span>
-        <span className={`priority priority-${priorityType}`}>
+        {/* <span className={`priority priority-${priorityType}`}>
           {priority.toUpperCase()}
-        </span>
+        </span> */}
         <span onClick={deleteTodo} className="btn-delete">
           <i className="fas fa-trash-alt"></i>
         </span>
