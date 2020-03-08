@@ -77,7 +77,7 @@ body {
   margin-bottom: 0.5rem;
   position: relative;
   /* border-bottom: 0.1rem solid var(--primary-color); */
-  background-color: rgba(50, 255, 50, 0.226);
+  background-color: rgba(0, 255, 0, 0.308);
   display: flex;
   align-items: center;
 }
